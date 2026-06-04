@@ -1,0 +1,6 @@
+{
+  "name": "ФинКарты",
+  "description": "Удобный и красивый учет личных финансов с интеграцией банковских карт, отслеживанием расходов и симуляцией СМС от банков.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

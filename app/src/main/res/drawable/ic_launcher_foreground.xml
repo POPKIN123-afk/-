@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Card Back Shadow -->
+    <path
+        android:pathData="M30,34 L78,34 Q82,34 82,38 L82,66 Q82,70 78,70 L30,70 Q26,70 26,66 L26,38 Q26,34 30,34 Z"
+        android:fillColor="#1A000000" />
+    <!-- Main Credit Card shape -->
+    <path
+        android:pathData="M28,32 L76,32 Q80,32 80,36 L80,64 Q80,68 76,68 L28,68 Q24,68 24,64 L24,36 Q24,32 28,32 Z"
+        android:fillColor="#FFB300" />
+    <path
+        android:pathData="M24,40 L80,40"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5" />
+    <!-- Chip -->
+    <path
+        android:pathData="M30,46 L40,46 Q42,46 42,48 L42,54 Q42,56 40,56 L30,56 Q28,56 28,54 L28,48 Q28,46 30,46 Z"
+        android:fillColor="#FFF8E1" />
+    <!-- Card lines -->
+    <path
+        android:pathData="M48,50 L72,50"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M48,58 L64,58"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+</vector>
